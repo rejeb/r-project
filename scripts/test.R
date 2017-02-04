@@ -7,5 +7,5 @@ print(paste("La racine carrée de ce nombre est: ", sqrt(nombre)))
 print(paste("Le cosinus de ce nombre est: ", cos(nombre)))
 print(paste("Si on ajoute 3 au nombre ", nombre, " on obtient: ", nombre + 3))
 
-print("Au revoir")
+print("Au revoir. Abientot")
 q("ask")
